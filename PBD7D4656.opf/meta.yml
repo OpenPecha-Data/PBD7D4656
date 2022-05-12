@@ -25,3 +25,8 @@ source_metadata:
       parent: Sang Offering
 created_at: '2022-03-01T00:35:25.499094'
 last_modified_at: '2022-03-01T00:35:25.499097'
+statistics:
+  total_words: 7450
+  total_non_words: 813
+quality:
+  non_words_ratio: 0.11
